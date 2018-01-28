@@ -1,0 +1,209 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Architecture images!</title>
+</head>
+<body bgcolor=black>
+<div id= "wrap">
+<a href="#">japneetsachdeva@yahoo.com</a>
+<div id="header">
+
+
+<img src= "image/leosnaps2.png" style= "display:block; margin-left:auto; margin-right:auto    "     />
+
+</div>
+
+<div id="gallery">
+
+<div id="wildlife">
+<a href="#lightbox1"><img src="image/im9.jpg" /> </a>
+</br> </br>
+</div>
+<div id="wildlife">
+<a href="#lightbox2"><img src="image/im10.jpg" /></a>
+</br> </br>
+</div>
+<div id="wildlife">
+<a href="#lightbox3"><img src="image/im11.jpg" /></a>
+</br> </br>
+</div>
+<div id="wildlife">
+<a href="#lightbox4"><img src="image/im12.jpg" /></a>
+</br> </br>
+</div>
+
+<div class="lightbox" id="lightbox1">
+<div id="outer">
+<p id="title">India Gate during sunrise!<a href="#" id="cross">X</a>
+
+</p>
+
+<div id="inner">
+<img src="image/im9.jpg" /> 
+
+</div>
+<p id="title1"><a href="#lightbox2" id="next">Next</a> <a href="#lightbox4" id="prev">Previous</a> </p>
+</div>
+</div>
+
+
+
+
+
+<div class="lightbox" id="lightbox2">
+<div id="outer">
+<p id="title">Afsarwala Tomb in Humayun Tomb complex<a href="#" id="cross">X</a>
+
+</p>
+
+<div id="inner">
+<img src="image/im10.jpg" /> 
+
+</div>
+<p id="title1"><a href="#lightbox3" id="next">Next</a> <a href="#lightbox1" id="prev">Previous</a> </p>
+</div>
+</div>
+<div class="lightbox" id="lightbox3">
+<div id="outer">
+<p id="title">Jama Masjid at evening<a href="#" id="cross">X</a>
+
+</p>
+
+<div id="inner">
+<img src="image/im11.jpg" /> 
+
+</div>
+<p id="title1"><a href="#lightbox4" id="next">Next</a> <a href="lightbox2" id="prev">Previous</a> </p>
+</div>
+</div>
+<div class="lightbox" id="lightbox4">
+<div id="outer">
+<p id="title">Humayun's Tomb<a href="#" id="cross">X</a>
+
+</p>
+
+<div id="inner">
+<img src="image/im12.jpg" /> 
+
+</div>
+<p id="title1"><a href="#lightbox1" id="next">Next</a> <a href="#lightbox3" id="prev">Previous</a> </p>
+</div>
+</div>
+</div>
+<style>
+*{
+margin:0px;
+padding:0px;
+}
+
+#header{
+
+background-color:black;
+height:150px;
+font-size:40px;
+color:black;
+}
+
+
+
+#wrap{
+
+border:1px solid black;
+height:1000px;
+width:1200px;
+margin:auto;
+color:white;
+font-family:cursive;
+
+}
+
+
+
+#wrap a{
+color:white;
+font-size:15px;
+text-decoration:none;
+}
+
+#wildlife
+{
+height:700px;
+width:900px;
+margin:auto;
+border:2px solid black;
+padding:5px;
+}
+
+.lightbox{
+visibility:hidden;
+opacity:0;
+position:fixed;
+top:0;
+left:0;
+background-color:rgba(72,73,74,0.5);
+height:100%;
+width:100%;
+
+}
+.lightbox img
+{width:900px;
+height:550px;
+
+}
+.lightbox:target
+{
+visibility:visible;
+opacity:1;
+transition:opacity 2s;
+}
+
+#outer
+{
+background-color:transparent;
+width:900px;
+margin:auto;
+margin-top:30px;
+box-shadow:0px 0px 35px black;
+padding:5px;
+border-radius:10px;
+}
+
+#inner
+{position:relative;
+}
+#title
+{
+color:white;
+font-size:15px;}
+#title a
+{
+color:black;
+font-size:15px;
+}
+#title1 a
+{
+color:black;
+font-size:15px;}
+#cross
+{
+float:right;
+}
+#next
+{
+float:right;
+
+}
+
+.lightbox a
+{ 
+text-decoration:none;
+
+}
+
+
+
+</style>
+
+
+</body>
+</html>
