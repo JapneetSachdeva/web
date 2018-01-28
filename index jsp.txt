@@ -1,0 +1,281 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Home</title>
+</head>
+<body background="image/back2.jpg">
+<div id= "wrap">
+<a href="#">japneetsachdeva@yahoo.com</a>
+<div id="header">
+
+
+<img src= "image/leosnaps2.png" style= "display:block; margin-left:auto; margin-right:auto    "     />
+
+</div>
+
+<div id= "menu">
+<ul>
+<li><a href="index.jsp"> Home</a> </li>
+<li><a href="#">Categories <span> <img src="image/down arrow 5.png"/>  </span> </a>
+<ul> 
+<li><a href="wildlife.jsp">wildlife</a> </li>
+<li><a href="portrait.jsp">portrait</a> </li>
+<li><a href="architecture.jsp">architecture</a> </li>
+<li><a href="landscape.jsp">landscape</a> </li>
+
+</ul>
+</li>
+<li><a href="gear.jsp">My Gear</a> 
+
+</li>
+
+<li><a href="#"> Budget cam's</a>
+<ul>
+<li><a href="https://www.flipkart.com/cameras/dslr-mirrorless/pr?otracker=categorytree&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D50000&q=canon+camera&sid=jek%2Fp31%2Ftrv">Canon</a></li>
+
+
+<li><a href="https://www.flipkart.com/cameras/dslr-mirrorless/pr?sid=jek,p31,trv&q=nikon+camera&p[]=facets.price_range.from%3DMin&p[]=facets.price_range.to%3D50000&otracker=categorytree">Nikon</a></li>
+
+</ul>
+
+
+
+
+
+ </li>
+<li><a href="#">Reach us</a> 
+<ul>
+<li> <a href="https://www.facebook.com/LeoSnaps3/"> <span> <img src="image/fb.png" height=20px; width=20px;  />  </span> </a> </li>
+
+<li> <a href="https://www.instagram.com/leo__snaps/"> <span> <img src="image/insta2.png" height=20px; width=20px;  />  </span> </a> </li>
+
+<li> <a href="https://500px.com/jsach3311"> <span> <img src="image/500px.png" height=20px; width=20px;  />  </span> </a> </li>
+</ul>
+</li>
+
+<li><a href="#">Contact us</a>
+<ul>
+<li><a href="signup.jsp">Sign up</a> </li>
+<li><a href="login.jsp">login</a> </li>
+
+
+</ul>
+
+
+</li>
+<li><a href="about.jsp">About us</a> </li>
+
+</ul>
+</div>
+
+<div id="outerbox">
+<div id="sliderbox">
+<img src="image/im1.jpg" width=900px; height=600px; />
+<img src="image/im32.jpg"  width=900px; height=600px;   />
+<img src="image/im33.jpg"width=900px; height=600px; />
+<img src="image/im4.jpg"width=900px; height=600px; />
+
+
+</div>
+
+</div>
+
+
+</div>
+
+</div>
+
+<style>
+*
+{
+margin:0px;
+padding:0px;
+
+}
+
+#wrap a{
+color:#e1d6d6;
+font-size:15.5px;
+text-decoration:none;
+
+}
+
+#wrap{
+
+height:1000px;
+width:1000px;
+margin:auto;
+color:#dcdcdc;
+font-family:arial;
+}
+#header{
+
+background-color:transparent;
+height:170px;
+font-size:2px;
+color:black;
+}
+
+#menu{
+background-color:transparent;
+height:130px;
+font-size:10px;
+
+}
+
+#menu ul
+{
+list-style:none;
+
+}
+
+#menu ul li { float:left;
+margin:15px;
+color:#dcdcdc;
+text-align:center;
+width:100px;
+height:40px;
+line-height:40px;
+position:left;
+
+}
+#menu ul li :hover
+{background-color:#FFA62F;
+
+
+}
+#menu ul ul
+{
+position:absolute;
+display:none;
+
+}
+#menu ul li:hover>ul
+{
+display:block;
+background-color:#848482;
+
+
+}
+
+
+
+#menu ul li a
+{
+color:#dcdcdc;
+text-decoration:none;
+display:block;
+
+}
+
+
+
+
+#main{
+width:900px;
+height:600px;
+border: 1px solid red;
+margin:auto;
+margin-top:15px;
+}
+
+#outerbox{
+
+width:900px;
+overflow:hidden;
+display:block;
+margin: 1px auto;
+}
+
+
+
+
+
+#sliderbox{
+position:relative;
+width:3600px;
+animation-name:slider;
+animation-duration:20s;
+
+animation-iteration-count:infinite;
+
+
+}
+#sliderbox img {
+float:left;
+}
+@keyframes slider
+{
+
+0%
+{
+
+left:0px;
+
+}
+
+20%{
+
+left:0px;
+}
+25%{
+left:-900px;
+
+}
+
+45%
+{
+left:-900px;
+
+}
+
+50%
+{
+left:-1800px;
+
+}
+
+70%
+{
+
+left:-1800px;
+}
+
+75%
+{
+left:-2700px;
+}
+
+95%
+{
+left:-2700px;
+}
+
+100%
+{
+left:-3600px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+</style>
+
+
+</body>
+<footer><b>Copyright &copy;Leo_snaps</b></footer>
+</html>
+
+
+</html>

@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>My Gear</title>
+</head>
+<body bgcolor=black>
+
+<div id= "wrap">
+<a href="#">japneetsachdeva@yahoo.com</a>
+<div id="header">
+
+
+<img src= "image/leosnaps2.png" style= "display:block; margin-left:auto; margin-right:auto    "     />
+
+</div>
+
+
+<div id="wildlife">
+
+<img src="image/canon.jpg" class="img" />
+<p id="data"> The Canon EOS Rebel T3i (aka the EOS 600D), the 60D's younger and cheaper sibling, offers the same basic camera with some corners cut--most notably a slightly less well-constructed body and a (purposely?) stunted burst shooting speed. You can also think of it as a slightly more expensive T2i, with the addition of an articulated LCD and a few features for the auto-always crowd. Either way, the T3i remains a solid if unexciting follow-up to its predecessor, although one that seems to cater more to videophiles than still shooters. 
+That's not to say it compromises on still photo quality. Overall, the T3i has an excellent noise profile, unsurprisingly similar to that of the 60D's. JPEGs look very clean up through ISO 400, and even at ISO 800 you really have to scrutinize to see the beginnings of detail degradation; at ISO 1,600 the noise becomes more obvious but still isn't too bad. 
+iSO 400 is sort of my tipping-point sensitivity; to shoot action outdoors, I generally have to bump up the setting to at least ISO 400 in order to reach a sufficiently fast shutter speed. And because few consumer cameras are fast enough at shooting burst raw+JPEG, the in-camera JPEG processing has to be decent as well. The T3i fared pretty well under these conditions. Overall, I consider shots at this setting good enough to use, but I still wish I would have been able to shoot raw to clean them up.
+</p>
+<p id="anchor">
+<a href="https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=13&cad=rja&uact=8&ved=0ahUKEwiQhPPSyLrVAhVMwI8KHePvBuUQFghcMAw&url=https%3A%2F%2Fwww.cnet.com%2Fproducts%2Fcanon-eos-rebel-rebel-t3i%2F&usg=AFQjCNHhF1w085E_z0FP5gOj7HxWhbQIgQ">For More...</a>
+</p>
+
+<img src="image/50mm1.jpeg"  class="img2" />
+<p id="data">The Canon EF 50mm F1.8 II is the least expensive lens currently available for the EOS system, and has been in the lineup since late 1990. It's a simplified version of the original EF 50mm F1.8 of 1987 (often referred to as the 'Mark I') which was supplied as standard with some of Canon's earliest 35mm EOS SLRs; however it can trace its lineage back a lot further than that, as the company has been making 50mm F1.8 standard lenses since 1959. Like its predecessor, it uses simple symmetric Gaussian optics with six elements in five groups, in a well-proven formula which is known to offer excellent correction of aberrations.
+Although designed as a 'standard' lens for 35mm film, these days the 50mm F1.8 is far more likely to be seen doing service on APS-C format DSLRs, on which it behaves like a short telephoto portrait lens (80mm equivalent). With its remarkably low (sub-$100) price, it tends to attract the interest of Canon SLR users looking to start experimenting with fast lenses for low light and shallow depth of field work, or simply hoping to get sharper results than those which can be provided by the kit lens bundled with the camera body. It's also a potential option for those seeking a near-disposable lens to use in adverse conditions.
+<a href="https://www.youtube.com/watch?v=pj8d3Rgdyl4">For More...</a>
+</br>
+</br>
+</br>
+</p>
+
+<img src="image/fisheye.jpg"  class="img3" />
+<p id="data">If you like to expand your field of view, consider a wide-angle adapter for your camera. How much wider you can get depends on the magnification factor. If you’ve got a camera that has a 28mm lens, sort of on the wide side, adding a 0.5x adapter will convert that to the field of view of a 14mm lens!
+You’ve got a lot of different options to widen your camera’s horizons. You can consider Kenko’s SGW-05,  a 0.5x adapter lens that can attach via a 37mm filter thread. If you want to go even wider, and don’t mind the distorted fisheye effect, consider Vivitar’s VIV-21-37MM, which creates a 0.21x magnification factor, sports multi-coated glass and also attaches via a 37mm thread.
+</p>
+<p id="data>"> <a href="https://www.youtube.com/watch?v=uwco9B2P8qM">For More...</a> </p> 
+</div>
+
+
+
+<style>
+.img3
+{float:left;
+margin-right: 20px;
+margin-bottom:5px;
+height:350px;
+width:350px;
+
+}
+.img2{
+width:350px;
+height:300px;
+float:left;
+margin-right: 20px;
+margin-bottom:5px;
+}
+
+#data
+{
+font-size:15px;
+font-color:white;
+margin:0;
+
+}
+#anchor a
+{
+font-size:20px;
+font-color:cyan;
+}
+.img{
+float:left;
+margin-right: 10px;
+margin-bottom:5px;
+border:1px solid white;
+padding:2px;
+height:400px;
+width:550px;
+
+}
+
+#header{
+
+background-color:black;
+height:150px;
+font-size:40px;
+color:black;
+}
+
+
+
+#wrap{
+
+border:1px solid black;
+height:1000px;
+width:1200px;
+margin:auto;
+color:white;
+font-family:cursive;
+
+}
+
+
+
+#wrap a{
+color:white;
+font-size:15px;
+text-decoration:none;
+}
+
+#wildlife
+{
+height:1200px;
+width:1000px;
+margin:auto;
+border:1px solid black;
+
+
+
+
+
+}
+
+
+
+
+</style>

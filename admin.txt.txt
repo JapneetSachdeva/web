@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Admin Page</title>
+</head>
+<body>
+<h2>Welcome to Admin Page!!!!</h2>
+<form action = "uploadservlet" method = "post" enctype = "multipart/form-data" >
+         Image Upload: <input type = "file" name = "file" size = "50" /><br>
+         <br />
+         <input type = "submit" value = "Upload File" />
+      </form>
+      
+</body>
+</html>

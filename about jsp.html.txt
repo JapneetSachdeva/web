@@ -1,0 +1,166 @@
+<html>
+<head>
+<title>About us</title>
+</head>
+<body background="image/im36.jpg">
+
+<div id= "wrap">
+
+<div id="header">
+
+
+<img src= "image/leosnaps2.png" style= "display:block; margin-left:auto; margin-right:auto    "     />
+
+</div>
+
+
+<div id="wildlife">
+
+<h1 id="head"> Japneet Sachdeva is a student who is pursuing his Btech in Information & Technology, is a hobbyist photographer,blogger and
+loves to remain fit!
+</h1>
+<p id="data">
+<i>
+He is self-learned photographer. He educated himself of fine nuances of the art through books, workshops, practice and inspiration from seniors / ace photographers like  Sahil Fauzdar, Jasminder Oberoi.
+Photography is like meditation for him and he loves going on early morning / late night shoots.
+
+He says :-
+
+“My first camera was a sony digital point & shoot which was gifted by brother as he saw my interest in photography from Barcelona, Spain in 2007, later I upgraded to Canon DSLR in 2015.
+
+My favorite shooting time is morning twilight to sunrise and evening sunset time.
+
+The beauty of this time is everything is at peace- people, city, traffic, birds, even the sky, all is just so beautiful and calm during these hours.”
+
+“Acquiring expensive gear does not make one a better photographer, my first 4 years I used Canon Rebel T3i with EF-S 18-55 f3.5-5.6 lens that came as kit. All landscape images, portraits, macro, long exposure images were shot using this kit.”
+</i>
+</p>
+
+<p id="data">
+<i>
+Hope you got to learn something and may it will help you in achieving your dream destination!
+</i>
+</p>
+
+
+
+
+</div>
+
+
+
+<style>
+#data
+{
+font-family:aerial;
+font-size:15px;
+color:black;
+}
+
+
+#head
+{
+font-family:Arial;
+font-size:30px;
+color:black;
+
+}
+#data
+{
+font-size:20px;
+font-family:
+
+}
+
+#header{
+
+background-color:transparent;
+height:150px;
+font-size:40px;
+color:black;
+}
+
+
+
+#wrap{
+
+height:800px;
+width:1200px;
+margin:auto;
+color:white;
+font-family:cursive;
+
+}
+
+
+
+#wrap a{
+color:white;
+font-size:15px;
+text-decoration:none;
+position:relative;
+}
+
+#wildlife
+{
+height:1200px;
+width:1000px;
+margin:auto;
+
+
+
+
+
+}
+
+
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,9 +1,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Architecture images!</title>
+<title>Wildlife images!</title>
 </head>
 <body bgcolor=black>
+
 <div id= "wrap">
 <a href="#">japneetsachdeva@yahoo.com</a>
 <div id="header">
@@ -16,30 +17,30 @@
 <div id="gallery">
 
 <div id="wildlife">
-<a href="#lightbox1"><img src="image/im9.jpg" /> </a>
+<a href="#lightbox1"><img src="image/im5.jpg" /> </a>
 </br> </br>
 </div>
 <div id="wildlife">
-<a href="#lightbox2"><img src="image/im10.jpg" /></a>
+<a href="#lightbox2"><img src="image/im6.jpg" /></a>
 </br> </br>
 </div>
 <div id="wildlife">
-<a href="#lightbox3"><img src="image/im11.jpg" /></a>
+<a href="#lightbox3"><img src="image/im8.jpg" /></a>
 </br> </br>
 </div>
 <div id="wildlife">
-<a href="#lightbox4"><img src="image/im12.jpg" /></a>
+<a href="#lightbox4"><img src="image/im25.jpg" /></a>
 </br> </br>
 </div>
 
 <div class="lightbox" id="lightbox1">
 <div id="outer">
-<p id="title">India Gate during sunrise!<a href="#" id="cross">X</a>
+<p id="title">Sarus Cranes at Dhanauri<a href="#" id="cross">X</a>
 
 </p>
 
 <div id="inner">
-<img src="image/im9.jpg" /> 
+<img src="image/im5.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox2" id="next">Next</a> <a href="#lightbox4" id="prev">Previous</a> </p>
@@ -52,12 +53,12 @@
 
 <div class="lightbox" id="lightbox2">
 <div id="outer">
-<p id="title">Afsarwala Tomb in Humayun Tomb complex<a href="#" id="cross">X</a>
+<p id="title">Eagle at Sultanpur National Park<a href="#" id="cross">X</a>
 
 </p>
 
 <div id="inner">
-<img src="image/im10.jpg" /> 
+<img src="image/im6.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox3" id="next">Next</a> <a href="#lightbox1" id="prev">Previous</a> </p>
@@ -65,12 +66,12 @@
 </div>
 <div class="lightbox" id="lightbox3">
 <div id="outer">
-<p id="title">Jama Masjid at evening<a href="#" id="cross">X</a>
+<p id="title">Rosy Pelican in action!<a href="#" id="cross">X</a>
 
 </p>
 
 <div id="inner">
-<img src="image/im11.jpg" /> 
+<img src="image/im8.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox4" id="next">Next</a> <a href="lightbox2" id="prev">Previous</a> </p>
@@ -78,12 +79,12 @@
 </div>
 <div class="lightbox" id="lightbox4">
 <div id="outer">
-<p id="title">Humayun's Tomb<a href="#" id="cross">X</a>
+<p id="title">Black Winged Stilt at Dhanauri<a href="#" id="cross">X</a>
 
 </p>
 
 <div id="inner">
-<img src="image/im12.jpg" /> 
+<img src="image/im25.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox1" id="next">Next</a> <a href="#lightbox3" id="prev">Previous</a> </p>
@@ -98,7 +99,7 @@ padding:0px;
 
 #header{
 
-background-color:black;
+background-color:transparent;
 height:150px;
 font-size:40px;
 color:black;
@@ -108,7 +109,6 @@ color:black;
 
 #wrap{
 
-border:1px solid black;
 height:1000px;
 width:1200px;
 margin:auto;
@@ -205,5 +205,51 @@ text-decoration:none;
 </style>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
+</html>
+
+
 </html>

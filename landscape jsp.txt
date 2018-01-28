@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Architecture images!</title>
+<title>Landscape images!</title>
 </head>
 <body bgcolor=black>
 <div id= "wrap">
@@ -16,19 +16,19 @@
 <div id="gallery">
 
 <div id="wildlife">
-<a href="#lightbox1"><img src="image/im9.jpg" /> </a>
+<a href="#lightbox1"><img src="image/im17.jpg" /> </a>
 </br> </br>
 </div>
 <div id="wildlife">
-<a href="#lightbox2"><img src="image/im10.jpg" /></a>
+<a href="#lightbox2"><img src="image/im18.jpg" /></a>
 </br> </br>
 </div>
 <div id="wildlife">
-<a href="#lightbox3"><img src="image/im11.jpg" /></a>
+<a href="#lightbox3"><img src="image/im19.jpg" /></a>
 </br> </br>
 </div>
 <div id="wildlife">
-<a href="#lightbox4"><img src="image/im12.jpg" /></a>
+<a href="#lightbox4"><img src="image/im20.jpg" /></a>
 </br> </br>
 </div>
 
@@ -39,7 +39,7 @@
 </p>
 
 <div id="inner">
-<img src="image/im9.jpg" /> 
+<img src="image/im17.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox2" id="next">Next</a> <a href="#lightbox4" id="prev">Previous</a> </p>
@@ -57,7 +57,7 @@
 </p>
 
 <div id="inner">
-<img src="image/im10.jpg" /> 
+<img src="image/im18.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox3" id="next">Next</a> <a href="#lightbox1" id="prev">Previous</a> </p>
@@ -70,7 +70,7 @@
 </p>
 
 <div id="inner">
-<img src="image/im11.jpg" /> 
+<img src="image/im19.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox4" id="next">Next</a> <a href="lightbox2" id="prev">Previous</a> </p>
@@ -83,7 +83,7 @@
 </p>
 
 <div id="inner">
-<img src="image/im12.jpg" /> 
+<img src="image/im20.jpg" /> 
 
 </div>
 <p id="title1"><a href="#lightbox1" id="next">Next</a> <a href="#lightbox3" id="prev">Previous</a> </p>
@@ -206,4 +206,5 @@ text-decoration:none;
 
 
 </body>
+</html>
 </html>
